@@ -1,0 +1,3 @@
+# The-Bank-Managment-system
+
+It provides a simple interface for maintenance of bank information. It can be used by Banks to maintain the records of users easily. The Bank Management system is a management system which contains adding account, deleting account, depositing money and withdrawing money. Bank Management System would be able to maintain information and able to keep records of that particular event. This project can be implemented in any bank by fulfilling basic requirements. This Bank Management System will provide the transaction going inside the bank without manual processing. All information will be updated automatically by using the information stored in the system files.
